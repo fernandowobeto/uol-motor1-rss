@@ -1,6 +1,6 @@
 <?php
 
-namespace FernandoWobeto\UolMotor1Rss;
+namespace Wobeto\UolMotor1Rss;
 
 use DateTime;
 

@@ -1,0 +1,20 @@
+{
+  "name": "wobeto/uol-motor1-rss",
+  "description": "",
+  "license": "MIT",
+  "version": "3.0.0",
+  "authors": [
+    {
+      "name": "Fernando wobeto",
+      "email": "contato@fernandowobeto.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wobeto\\UolMotor1Rss\\": "Wobeto/UolMotor1Rss"
+    }
+  }
+}
